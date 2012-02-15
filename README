@@ -1,0 +1,11 @@
+README
+
+structure_search
+Brian Boates
+
+structure_search.py
+Build random unit cells for ab initio structural optimization 
+to predict new phases of matter
+
+SEARCH
+Input file for structure_search.py
